@@ -1,4 +1,13 @@
-## Hi there 👋
+## HELLO BRO!
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE4bnU3ZmJwcTZxd3pzdG5tYXFhcG5kbXIzOXN1dXhmM2c0dHc4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XijnjGLwbq5u8/giphy.webp)
+
+My name is Rudemoc also known as Uosio. I am making some funny stuff on Java and just coding. 
+
+Also I like 3D modelling and doing lover level soundtracks. I guess that's all :3
+
+[<img src="https://media1.tenor.com/m/5xrhtEGvLsgAAAAC/telegram-gif.gif" width="69"/>](https://t.me/rudemochan)
+[<img src="https://img.ngfiles.com/wiki/uploads/968000/iu_968880_1.gif" width="69"/>](https://uosio.newgrounds.com/)
+[<img src="https://media1.tenor.com/m/QMA2IhoAaE0AAAAC/multiversx-x-twitter.gif" width="69"/>](https://x.com/rudemoc_fv?s=09)
 
 <!--
 **rudemoc-fv/rudemoc-fv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
